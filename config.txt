@@ -1,0 +1,6 @@
+﻿token=NTQ2Mjg0OTA4OTkwMTY5MDg4.D0l_bg.qEWlsl-mfQQYKFKJK0VSe0h6jjg 
+owner=ا352222161559093269 
+prefix= R
+game= !Rhelp
+stayinchannel=true
+songinstatus=true 
